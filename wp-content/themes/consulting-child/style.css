@@ -1,0 +1,60 @@
+/*
+Theme Name: Consulting Child
+Template: consulting
+*/
+.widget a {
+	color: #4498e7;
+}
+#footer .widget li{
+	text-align: center;
+}
+#footer .widget li a{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.rpwwt-widget ul li img{
+	width: 100%;
+	height: 100%;
+	display: inline-block;
+	float: none;
+}
+.rpwwt-post-title{
+	display: inline-block;
+}
+img{
+	width: 100%;
+}
+.blog-style2 #content{
+	background-color: white;
+}
+.blog-article, .blog-style2 .blog-article, .single .post{
+	background-color: #629BE0;
+}
+.post .entry-meta span{
+	color: black;
+}
+.blog-article .blog-thumb{
+	display: inherit;
+	width: 90%;
+	margin: auto;
+	padding-top: 20px;
+}
+.blog-article .blog-title{
+	margin-top: 20px;
+	text-align: center;
+	font-weight: bold;
+}
+.entry-content p{
+	color: white;
+}
+.entry-meta{
+	opacity: inherit;
+	color: white;
+}
+.blog-article .entry-meta a, .blog-article .entry-meta a:hover{
+	color: white;
+}
+.copyright{
+	text-align: center;
+}

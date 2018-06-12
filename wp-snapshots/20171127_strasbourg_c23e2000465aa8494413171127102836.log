@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 27 November 2017 10 h 28 min
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.30
+WORDPRESS:	4.9
+PHP INFO:	7.1.8 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 20MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:31 | filtered:0 | create:31 
+FILTERED: [] 
+SQL CREATED: 20171127_strasbourg_c23e2000465aa8494413171127102836_database.sql 
+SQL FILE SIZE: 542.83KB (555857) 
+SQL FILE TIME: 2017-11-27 10:28:41 
+SQL RUNTIME: 0.13 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Users/casrime/Web/strasbourg 
+ARCHIVE FILE: 20171127_strasbourg_c23e2000465aa8494413171127102836_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	72.05MB 
+STATS:	Dirs 544 | Files 3,707 
+SQL ADDED: 20171127_strasbourg_c23e2000465aa8494413171127102836_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4251
+    [filename] => /Users/casrime/Web/strasbourg/wp-snapshots/tmp/20171127_strasbourg_c23e2000465aa8494413171127102836_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 32.97MB 
+ARCHIVE RUNTIME: 11.98 sec. 
+MEMORY STACK: 22MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [/Users/casrime/Web/strasbourg/wp-snapshots/tmp/20171127_strasbourg_c23e2000465aa8494413171127102836_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 542.83KB 
+Installer File: 443.3KB 
+Archive File: 32.97MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 14.07 sec.
+PEAK PHP MEMORY USED: 24MB
+DONE PROCESSING => 20171127_strasbourg 27 November 2017 10 h 28 min
+ 
