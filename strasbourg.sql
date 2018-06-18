@@ -1927,16 +1927,16 @@ CREATE TABLE `str_wpms_links` (
 # Data contents of table `str_wpms_links`
 #
 INSERT INTO `str_wpms_links` ( `id`, `link_url`, `link_final_url`, `link_url_redirect`, `link_text`, `source_id`, `type`, `status_code`, `status_text`, `hit`, `redirect`, `broken_indexed`, `broken_internal`, `warning`, `dismissed`, `follow`, `meta_title`, `internal`) VALUES
-(16, 'strasbourg/wp-content/uploads/2017/10/event-1255709_1920-1024x576.jpg', NULL, '', '', 0, '404_automaticaly', '404 Not Found', '404 Not Found', 2, 0, 1, 0, 0, 0, 1, '', 1),
+(16, 'http://strasbourg.abdounikarim.com/wp-content/uploads/2017/10/event-1255709_1920-1024x576.jpg', NULL, '', '', 0, '404_automaticaly', '404 Not Found', '404 Not Found', 2, 0, 1, 0, 0, 0, 1, '', 1),
 (22, 'http://strasbourg.abdounikarim.com/category/actus/', 'http://strasbourg.abdounikarim.com/category/actus/', '', 'actualités', 22, 'url', 'HTTP/1.0 200 OK', '200 OK', 1, 0, 0, 0, 0, 0, 1, '', 1),
 (23, 'http://strasbourg.abdounikarim.com/category/infos/', 'http://strasbourg.abdounikarim.com/category/infos/', '', 'plus d\'infos', 22, 'url', 'HTTP/1.0 200 OK', '200 OK', 1, 0, 0, 0, 0, 0, 1, '', 1),
 (24, 'http://strasbourg.abdounikarim.com/activites-du-mois/', 'http://strasbourg.abdounikarim.com/activites-du-mois/', '', 'activités du mois', 22, 'url', 'HTTP/1.0 200 OK', '200 OK', 1, 0, 0, 0, 0, 0, 1, '', 1),
 (25, 'http://strasbourg.abdounikarim.com/contact/', 'http://strasbourg.abdounikarim.com/contact/', '', 'contacter', 22, 'url', 'HTTP/1.0 200 OK', '200 OK', 1, 0, 0, 0, 0, 0, 1, '', 1),
 (26, 'http://strasbourg.abdounikarim.com/wp-content/uploads/2017/11/strasbourg-1634088_1920-1024x576.jpg', 'http://strasbourg.abdounikarim.com/wp-content/uploads/2017/11/strasbourg-1634088_1920-1024x576.jpg', '', '', 22, 'image', 'HTTP/1.1 200 OK', '200 OK', 1, 0, 0, 0, 0, 0, 1, '', 1),
-(27, 'strasbourg/wp-content/uploads/2017/10/event-1255709_1920-1024x576-768x432.jpg', NULL, '', '', 0, '404_automaticaly', '404 Not Found', '404 Not Found', 11, 0, 1, 0, 0, 0, 1, '', 1),
-(28, 'strasbourg/wp-content/uploads/2017/10/strasbourg2.jpg', NULL, '', '', 0, '404_automaticaly', '404 Not Found', '404 Not Found', 9, 0, 1, 0, 0, 0, 1, '', 1),
-(29, 'strasbourg/wp-content/uploads/2017/10/strasbourg1.jpg', NULL, '', '', 0, '404_automaticaly', '404 Not Found', '404 Not Found', 9, 0, 1, 0, 0, 0, 1, '', 1),
-(30, 'strasbourg/wp-content/uploads/2017/10/strasbourg3.jpg', NULL, '', '', 0, '404_automaticaly', '404 Not Found', '404 Not Found', 9, 0, 1, 0, 0, 0, 1, '', 1),
+(27, 'http://strasbourg.abdounikarim.com/wp-content/uploads/2017/10/event-1255709_1920-1024x576-768x432.jpg', NULL, '', '', 0, '404_automaticaly', '404 Not Found', '404 Not Found', 11, 0, 1, 0, 0, 0, 1, '', 1),
+(28, 'http://strasbourg.abdounikarim.com/wp-content/uploads/2017/10/strasbourg2.jpg', NULL, '', '', 0, '404_automaticaly', '404 Not Found', '404 Not Found', 9, 0, 1, 0, 0, 0, 1, '', 1),
+(29, 'http://strasbourg.abdounikarim.com/wp-content/uploads/2017/10/strasbourg1.jpg', NULL, '', '', 0, '404_automaticaly', '404 Not Found', '404 Not Found', 9, 0, 1, 0, 0, 0, 1, '', 1),
+(30, 'http://strasbourg.abdounikarim.com/wp-content/uploads/2017/10/strasbourg3.jpg', NULL, '', '', 0, '404_automaticaly', '404 Not Found', '404 Not Found', 9, 0, 1, 0, 0, 0, 1, '', 1),
 (32, 'http://strasbourg.abdounikarim.com/wp-content/uploads/2017/11/event-1255709_1920-1024x576-1024x576.jpg', 'http://strasbourg.abdounikarim.com/wp-content/uploads/2017/11/event-1255709_1920-1024x576-1024x576.jpg', '', '', 49, 'image', 'HTTP/1.1 200 OK', '200 OK', 1, 0, 0, 0, 0, 0, 1, '', 1),
 (33, 'http://strasbourg.abdounikarim.com/wp-content/uploads/2017/11/graduation-995042_1920-1024x409-1024x409.jpg', 'http://strasbourg.abdounikarim.com/wp-content/uploads/2017/11/graduation-995042_1920-1024x409-1024x409.jpg', '', '', 51, 'image', 'HTTP/1.1 200 OK', '200 OK', 1, 0, 0, 0, 0, 0, 1, '', 1),
 (34, 'http://strasbourg.abdounikarim.com/wp-content/uploads/2017/11/fuel-1596622_1920-1024x681-1024x681.jpg', 'http://strasbourg.abdounikarim.com/wp-content/uploads/2017/11/fuel-1596622_1920-1024x681-1024x681.jpg', '', '', 53, 'image', 'HTTP/1.1 200 OK', '200 OK', 1, 0, 0, 0, 0, 0, 1, '', 1),
@@ -1947,7 +1947,7 @@ INSERT INTO `str_wpms_links` ( `id`, `link_url`, `link_final_url`, `link_url_red
 (39, 'http://strasbourg.abdounikarim.com/wp-content/uploads/2017/11/5669016502_896d49dec2_o-1024x694-1024x694.jpg', 'http://strasbourg.abdounikarim.com/wp-content/uploads/2017/11/5669016502_896d49dec2_o-1024x694-1024x694.jpg', '', '', 64, 'image', 'HTTP/1.1 200 OK', '200 OK', 1, 0, 0, 0, 0, 0, 1, '', 1),
 (40, 'http://strasbourg.abdounikarim.com/wp-content/uploads/2017/11/16265582622_bf6b85d6fe_k-1024x768-1024x768.jpg', 'http://strasbourg.abdounikarim.com/wp-content/uploads/2017/11/16265582622_bf6b85d6fe_k-1024x768-1024x768.jpg', '', '', 66, 'image', 'HTTP/1.1 200 OK', '200 OK', 1, 0, 0, 0, 0, 0, 1, '', 1),
 (41, 'http://strasbourg.abdounikarim.com/wp-content/uploads/2017/11/strasbourg-2218446_1920-1-1024x678-1024x678.jpg', 'http://strasbourg.abdounikarim.com/wp-content/uploads/2017/11/strasbourg-2218446_1920-1-1024x678-1024x678.jpg', '', '', 68, 'image', 'HTTP/1.1 200 OK', '200 OK', 1, 0, 0, 0, 0, 0, 1, '', 1),
-(42, 'strasbourg/inscription/', NULL, '', '', 0, '404_automaticaly', '404 Not Found', '404 Not Found', 1, 0, 1, 0, 0, 0, 1, '', 1),
+(42, 'http://strasbourg.abdounikarim.com/inscription/', NULL, '', '', 0, '404_automaticaly', '404 Not Found', '404 Not Found', 1, 0, 1, 0, 0, 0, 1, '', 1),
 (45, 'http://strasbourg.abdounikarim.com.abdounikarim.com/', 'http://strasbourg.abdounikarim.com.abdounikarim.com/', '', 'strasbourg.abdounikarim.com', 73, 'url', 'HTTP/1.0 200 OK', '200 OK', 1, 0, 0, 0, 0, 0, 1, '', 0),
 (46, 'http://www.subdelirium.com/generateur-de-mentions-legales/', 'http://www.subdelirium.com/generateur-de-mentions-legales/', '', 'Générateur de mentions légales', 73, 'url', 'HTTP/1.1 403 Forbidden', '403 Forbidden', 1, 0, 0, 0, 1, 0, 1, '', 0),
 (47, 'strasbourgatmacbook-pro-de-casrime.local/apple-icon.png', NULL, '', '', 0, '404_automaticaly', '404 Not Found', '404 Not Found', 2, 0, 1, 0, 0, 0, 1, '', 1) ;
