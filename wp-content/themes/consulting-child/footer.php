@@ -23,7 +23,7 @@
 		<div id="sub-footer-core">
 		
 			<div class="copyright">
-				<a href="http://strasbourg/mentions-legales/">Mentions légales</a> - 
+				<a href="https://strasbourg.abdounikarim.com/mentions-legales/">Mentions légales</a> - 
 
 				<?php if (is_user_logged_in()) : ?>
 				    <a href="<?php echo wp_logout_url(get_permalink()); ?>"><i class="fa fa-unlock" aria-hidden="true"></i> Déconnexion</a>
